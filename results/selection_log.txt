@@ -5,10 +5,10 @@ DIFFICULTY_BY=mean
 Easy: score >= 0.8; Hard: score < 0.4; Medium: otherwise
 Thresholds: {'RF-DETR 2XL': 0.342, 'RF-DETR L': 0.473, 'RF-DETR M': 0.432, 'YOLOv8n': 0.372, 'YOLO11m': 0.327}
 
-Grup boyutları (GT içeren görüntüler): Easy=272, Medium=71, Hard=20
+Group sizes (images containing GT): Easy=272, Medium=71, Hard=20
 
-[Easy] seçilen (sırayla): ds1_0165.jpg, ds1_0108.jpg, ds1_0241.jpg, ds1_0025.jpg
-[Medium] seçilen (sırayla): ds4_0466.jpg, ds1_0199.jpg, ds3_0016.jpg, ds1_0103.jpg
-[Hard] seçilen (sırayla): ds3_0009.jpg, ds1_0252.jpg, ds3_0013.jpg, ds1_0228.jpg
+Selected [Easy] (in order): ds1_0165.jpg, ds1_0108.jpg, ds1_0241.jpg, ds1_0025.jpg
+Selected [Medium] (in order): ds4_0466.jpg, ds1_0199.jpg, ds3_0016.jpg, ds1_0103.jpg
+Selected [Hard] (in order): ds3_0009.jpg, ds1_0252.jpg, ds3_0013.jpg, ds1_0228.jpg
 
-Ana figürde kullanılanlar: ds1_0165.jpg, ds4_0466.jpg, ds3_0009.jpg
+Used in the main figure: ds1_0165.jpg, ds4_0466.jpg, ds3_0009.jpg
